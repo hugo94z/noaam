@@ -1,0 +1,6 @@
+{
+  "name": "Noam Speeder",
+  "description": "Jeu de plateforme 3D d'action et de vitesse avec Noam : accélération de vitesse, triple saut, vol stationnaire, backflip, ground pound et monstres Bloup, Goldonax et Cornog à travers 6 mondes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
